@@ -1,0 +1,12 @@
+{
+    "signalName": "masa300_TrackMarker2",
+    "model": {
+        "modelFile": "masa300/ModelSignal_TrackMarker2.mqo",
+        "textures": [["default", "textures/masa300/signal/SignalSign1.png", ""]],
+        "rendererPath": "scripts/masa300/renderTrackMarker2.js"
+    },
+    "buttonTexture": "textures/masa300/signal/button_TrackMarker2.png",
+    "smoothing": true,
+    "doCulling": true,
+    "tags": "masa300 sign"
+}
